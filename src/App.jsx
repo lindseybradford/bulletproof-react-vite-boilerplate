@@ -1,22 +1,34 @@
 function App() {
-  return (
-    <>
-      <p className="text-lg">Hey, Purrky</p>
-      <article className="prose lg:prose-xl">
-  <h1>Garlic bread with cheese: What the science tells us</h1>
-  <p>
-    For years parents have espoused the health benefits of eating garlic bread with cheese to their
-    children, with the food earning such an iconic status in our culture that kids will often dress
-    up as warm, cheesy loaf for Halloween.
-  </p>
-  <p>
-    But a recent study shows that the celebrated appetizer may be linked to a series of rabies cases
-    springing up around the country.
-  </p>
+    return (
+        <>
+            <article className="prose lg:prose-xl">
+                <h1>Loomings</h1>
 
-</article>
-    </>
-  )
+                <p>
+                    Call me Ishmael. Some years ago—never mind how long
+                    precisely—having little or no money in my purse, and nothing
+                    particular to interest me on shore, I thought I would sail
+                    about a little and see the watery part of the world. It is a
+                    way I have of driving off the spleen and regulating the
+                    circulation. Whenever I find myself growing grim about the
+                    mouth; whenever it is a damp, drizzly November in my soul;
+                    whenever I find myself involuntarily pausing before coffin
+                    warehouses, and bringing up the rear of every funeral I
+                    meet; and especially whenever my hypos get such an upper
+                    hand of me, that it requires a strong moral principle to
+                    prevent me from deliberately stepping into the street, and
+                    methodically knocking people’s hats off—then, I account it
+                    high time tozz get to sea as soon as I can. This is my
+                    substitute for pistol and ball. With a philosophical
+                    flourish Cato throws himself upon his sword; I quietly take
+                    to the ship. There is nothing surprising in this. If they
+                    but knew it, almost all men in their degree, some time or
+                    other, cherish very nearly the same feelings towards the
+                    ocean with me.
+                </p>
+            </article>
+        </>
+    )
 }
 
 export default App
